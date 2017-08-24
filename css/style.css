@@ -1100,6 +1100,7 @@
 			}
 
 			#header h1 a {
+				color: #e0555a;
 				border: 0;
 			}
 
@@ -1127,7 +1128,6 @@
 
 					#header nav > ul > li a {
 						border: 0;
-						color: inherit;
 						display: inline-block;
 						text-decoration: none;
 					}
